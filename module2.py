@@ -55,7 +55,3 @@ class Task6:
 
     print(f"3-digit lock code: {digit1}{digit2}{digit3}")
     print(f"4-digit lock code: {dig1}{dig2}{dig3}{dig4}")
-
-
-
-
